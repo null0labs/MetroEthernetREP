@@ -27,7 +27,7 @@ These distinctions are **critical** for engineers working in service provider ne
 ## 📺 Video Walkthrough
 
 Dive into the full lab setup and explanation on YouTube:  
-👉 [Watch the walkthrough]([https://youtu.be/8p9Fballx9M?si=LzpzqZAN6gIaxM6A](https://youtu.be/Tkd6QqCFm_Q)
+👉 [Watch the walkthrough](https://youtu.be/Tkd6QqCFm_Q)
 
 ## 🗺️ Lab Topology
 
