@@ -11,4 +11,4 @@ Dive into the full lab setup and explanation on YouTube:
 Here's the visual layout of the VPC lab.  
 📌 _Click to expand the image for full resolution._
 
-![VPC Lab Topology](topology.png)
+![VPC Lab Topology](EthernetRingTopo.png)
